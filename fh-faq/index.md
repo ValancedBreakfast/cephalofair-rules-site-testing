@@ -2,7 +2,7 @@
 
 You should have been redirected automatically, but since you weren't, please select your language:
 
-[English](https://valancedbreakfast.github.io/bnb-rules-fork-testing/en/fh-faq/)
+[English](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/en/fh-faq/)
 French (isn't available yet)
 German (isn't available yet)
 Spanish (isn't available yet)

@@ -8,7 +8,7 @@ Welcome to the Cephalofair rules and support hub (in English).
 
 #Frosthaven
 
-- [FAQ](https://valancedbreakfast.github.io/bnb-rules-fork-testing/en/fh-faq/)
+- [FAQ](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/en/fh-faq/)
 
 #Gloomhaven: Jaws of the Lion
 
@@ -16,7 +16,7 @@ Welcome to the Cephalofair rules and support hub (in English).
 
 #Gloomhaven: Buttons & Bugs
 
-- [Rules](https://valancedbreakfast.github.io/bnb-rules-fork-testing/en/mm-rule/)
+- [Rules](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/en/mm-rule/)
 
 #Gloomhaven RPG
 

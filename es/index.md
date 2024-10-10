@@ -16,7 +16,7 @@ Welcome to the Cephalofair rules and support hub (in Spanish).
 
 #Gloomhaven: Buttons & Bugs
 
-- [Rules (but in spanish)](https://valancedbreakfast.github.io/bnb-rules-fork-testing/es/mm-rule/)
+- [Rules (but in spanish)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/es/mm-rule/)
 
 #Gloomhaven RPG
 

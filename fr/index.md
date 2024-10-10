@@ -16,7 +16,7 @@ Welcome to the Cephalofair rules and support hub (in French).
 
 #Gloomhaven: Buttons & Bugs
 
-- [Rules (but in french)](https://valancedbreakfast.github.io/bnb-rules-fork-testing/fr/mm-rule/)
+- [Rules (but in french)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/fr/mm-rule/)
 
 #Gloomhaven RPG
 

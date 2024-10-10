@@ -16,7 +16,7 @@ Welcome to the Cephalofair rules and support hub (in German).
 
 #Gloomhaven: Buttons & Bugs
 
-- [Rules (but in german)](https://valancedbreakfast.github.io/bnb-rules-fork-testing/de/mm-rule/)
+- [Rules (but in german)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/de/mm-rule/)
 
 #Gloomhaven RPG
 
