@@ -1,0 +1,28 @@
+
+rules.cephalofair.com/
+redirect to hub in user language if possible
+
+rules.cephalofair.com/en/
+hub of all games rules and support links in English
+
+nikki manages all /en/... stuff themself
+
+rules.cephalofair.com/fr/
+rules.cephalofair.com/de/
+rules.cephalofair.com/es/
+
+individual partners manage all subdirectories within their own language 
+
+
+rules.cephalofair.com/en/micromerc-rules/
+micro mercenaries living rules document in english
+
+rules.cephalofair.com/micromerc-rules/
+redirects to user language version of this page
+
+
+
+
+
+
+
