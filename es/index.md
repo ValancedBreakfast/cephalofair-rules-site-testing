@@ -2,23 +2,23 @@
 
 Welcome to the Cephalofair rules and support hub (in Spanish).
 
-#Gloomhaven
+# Gloomhaven
 
 - There are currently no support files available for this game. (but in spanish)
 
-#Frosthaven
+# Frosthaven
 
 - There are currently no support files available for this game. (but in spanish)
 
-#Gloomhaven: Jaws of the Lion
+# Gloomhaven: Jaws of the Lion
 
 - There are currently no support files available for this game. (but in spanish)
 
-#Gloomhaven: Buttons & Bugs
+# Gloomhaven: Buttons & Bugs
 
-- [Rules (but in spanish)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/es/mm-rule/)
+- [Rules (but in spanish)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/es/mm-rules/)
 
-#Gloomhaven RPG
+# Gloomhaven RPG
 
 - There are currently no support files available for this game. (but in spanish)
 

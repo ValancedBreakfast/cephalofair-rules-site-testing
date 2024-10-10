@@ -2,23 +2,23 @@
 
 Welcome to the Cephalofair rules and support hub (in German).
 
-#Gloomhaven
+# Gloomhaven
 
 - There are currently no support files available for this game. (but in german)
 
-#Frosthaven
+# Frosthaven
 
 - There are currently no support files available for this game. (but in german)
 
-#Gloomhaven: Jaws of the Lion
+# Gloomhaven: Jaws of the Lion
 
 - There are currently no support files available for this game. (but in german)
 
-#Gloomhaven: Buttons & Bugs
+# Gloomhaven: Buttons & Bugs
 
-- [Rules (but in german)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/de/mm-rule/)
+- [Rules (but in german)](https://valancedbreakfast.github.io/cephalofair-rules-site-testing/de/mm-rules/)
 
-#Gloomhaven RPG
+# Gloomhaven RPG
 
 - There are currently no support files available for this game. (but in german)
 
